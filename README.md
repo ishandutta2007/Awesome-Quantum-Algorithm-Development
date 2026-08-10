@@ -4,7 +4,7 @@ Here’s a clean, GitHub-style README.md focused primarily on open-source tools 
 
 Markdown
 Copy
-# Top Quantum Algorithm Development Tools
+## Top Quantum Algorithm Development Tools
 
 A curated list of leading platforms and frameworks for designing, optimizing, and executing quantum algorithms.  
 **Primary focus: open-source software.**
