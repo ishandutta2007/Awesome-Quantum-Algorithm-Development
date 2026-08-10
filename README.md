@@ -47,7 +47,7 @@ Below is a curated comparison of commercial quantum cloud platforms and enterpri
 
 These open-source repositories form the cornerstone of quantum algorithm research, hybrid optimization, and quantum compiler design. Sorted in descending order by GitHub star count ⭐.
 
-| 🛠️ Project | ⭐Stars_____ | 📝 Description | 📜 License / Focus |
+| 🛠️ Project | ⭐Stars________ | 📝 Description | 📜 License / Focus |
 |:---|:---|:---|:---|
 | **[Qiskit](https://github.com/Qiskit/qiskit)** | [<img src="https://img.shields.io/github/stars/Qiskit/qiskit?style=social&color=white" alt="Qiskit Stars"/>](https://github.com/Qiskit/qiskit/stargazers) | IBM’s full-stack open-source SDK for circuit construction, transpilation, and quantum primitives. | Apache 2.0 |
 | **[Cirq](https://github.com/quantumlib/Cirq)** | [<img src="https://img.shields.io/github/stars/quantumlib/Cirq?style=social&color=white" alt="Cirq Stars"/>](https://github.com/quantumlib/Cirq/stargazers) | Google’s framework for NISQ algorithms, hardware-aware circuit design, and QPU execution. | Apache 2.0 |
